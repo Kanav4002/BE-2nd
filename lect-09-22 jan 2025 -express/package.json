@@ -1,0 +1,15 @@
+{
+  "name": "lect-09-22-jan-2025--express",
+  "version": "1.0.0",
+  "description": "Query parameters are a way to pass additional data to a route in a URL. They are appended to the URL after a `?` symbol, and multiple parameters are separated by `&`. Query parameters are often used for filtering, searching, or passing optional data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
